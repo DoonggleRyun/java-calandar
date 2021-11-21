@@ -116,8 +116,6 @@ public class Prompt {
 		cal.registerPlan(date, text);
 	}
 
-
-
 	public static void main(String[] args) throws ParseException {
 		// ¼¿ ½ÇÇà
 
